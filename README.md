@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 I’m a software engineer graduated in Computer Science & Cyber-Security from **INSA Hauts-de-France** and finishing a Master’s in **Safe Software (UPEC)**.  
-My happy place is where **secure back-ends, IoT devices, and challenging legacy systems (yes, even COBOL!)** meet.
+My happy place is where **secure back-ends and challenging legacy systems meet.
 
 ### 🛠 Tech Toolbox
 | Domain | Technologies |
