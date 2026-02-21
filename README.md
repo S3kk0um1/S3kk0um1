@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 I’m a software engineer graduated in Computer Science & Cyber-Security from **INSA Hauts-de-France** with a Master’s in **Safe Software (UPEC)**.  
-My happy place is where **secure back-ends** and **challenging legacy systems** meet.
+My happy place is where **secure back-ends** and **challenging systems** meet.
 
 ### 🛠 Tech Toolbox
 | Domain | Technologies |
@@ -32,7 +32,7 @@ My happy place is where **secure back-ends** and **challenging legacy systems** 
 | **[Student Management Portal](https://github.com/S3kk0um1/KonoSophia)** | Java · JavaFx · MySQL | **Desktop App:** Academic management system for tracking students, grades, and modules. |
 
 ### 🌱 Currently Learning
-- Preparing the Java 17 Certification
+- Preparing the Java 17 OCP Certification
 
 
 ### 🏎 Outside Code
