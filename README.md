@@ -11,28 +11,38 @@
 </p>
 
 ### 👨‍💻 About Me
-I’m a software engineer graduated in Computer Science & Cyber-Security from **INSA Hauts-de-France** with a Master’s in **Safe Software (UPEC)**.  
-My happy place is where **secure back-ends** and **challenging systems** meet.
+
+I’m a software engineer with an engineering degree in Computer Science and Cybersecurity from INSA Hauts-de-France and a Master’s in Computer Science, specialising in Safe Software, from UPEC.
+
+My focus is backend development with Java and Spring Boot. At Renault Group, I developed a Java driving simulator for operator training. At Sopra Steria, I worked on the maintenance and evolution of banking software for Société Générale.
+
+I’m looking for a junior Java backend developer position in France, where I can contribute to application development and deepen my experience in software design and testing.
+
+### 📜 Certifications
+
+* Oracle Certified Professional: Java SE 17 Developer
+* JavaScript Algorithms and Data Structures — freeCodeCamp
+
 
 ### 🛠 Tech Toolbox
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java · Python · JavaScript / TypeScript · COBOL · Bash / PowerShell |
-| **Frameworks & Libs** | Spring Boot · JUnit · Flutter |
+| **Frameworks & Libs** | Spring Boot · JUnit · JavaFX · Flutter · React · React Native|
 | **DB / Data** | PostgreSQL · MongoDB · DB2 · MySQL / SQLite |
-| **API & Archi** | REST · gRPC · Micro-services · Event Driven |
+| **API & Archi** | REST · gRPC · Microservices · Event Driven |
 | **DevOps & Tools** | Git · GitHub Actions · Docker · Jira / Trello · Looker |
 
-### ⚡ Highlight Projects
+### ⚡ Selected Projects
 | Project | Stack | Project Description |
 | :--- | :--- | :--- |
-| **[Identity-Based Secure Mail](https://github.com/XavierColy/ProjetCrypto)** | Java · JavaFx · Cryptography | **Security:** Encrypted mail client using the Boneh–Franklin Id-based algorithm. |
-| **[Blockchain Demo](https://github.com/S3kk0um1/blockchainDemo)** | Java · SHA-256 | **Algorithms:** Built a decentralized ledger with Proof-of-Work mining and chain validation. |
+| **[Patient Management](https://github.com/S3kk0um1/patient-management)** | Java · Spring Boot · JPA · gRPC · Docker | **Backend:** Patient management demo with a REST API, input validation and gRPC communication between two services. |
+| **[Identity-Based Secure Mail](https://github.com/XavierColy/ProjetCrypto)** | Java · JavaFX · Cryptography | **Security:** Encrypted mail client using the Boneh–Franklin Id-based algorithm. |
+| **[Blockchain Demo](https://github.com/S3kk0um1/blockchainDemo)** | Java · SHA-256 | **Algorithms:** Educational Java blockchain with Proof-of-Work mining, UTXO transactions and chain validation. |
 | **[Lille Street Park](https://github.com/S3kk0um1/LilleStreetPark)** | Flutter · Google Maps API | **Mobile App:** Real-time street parking finder for Lille connecting to open APIs. |
-| **[Student Management Portal](https://github.com/S3kk0um1/KonoSophia)** | Java · JavaFx · MySQL | **Desktop App:** Academic management system for tracking students, grades, and modules. |
+| **[Student Management Portal](https://github.com/S3kk0um1/neoSophia)** | Java · JavaFX · MySQL | **Desktop App:** Academic management system for tracking students, grades, and modules. |
 
-### 🌱 Currently Learning
-- Preparing the Java 17 OCP Certification
+
 
 
 ### 🏎 Outside Code
