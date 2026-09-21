@@ -40,8 +40,7 @@ I’m looking for a junior Java backend developer position in France, where I ca
 | **[Identity-Based Secure Mail](https://github.com/XavierColy/ProjetCrypto)** | Java · JavaFX · Cryptography | **Security:** Encrypted mail client using the Boneh–Franklin Id-based algorithm. |
 | **[Blockchain Demo](https://github.com/S3kk0um1/blockchainDemo)** | Java · SHA-256 | **Algorithms:** Educational Java blockchain with Proof-of-Work mining, UTXO transactions and chain validation. |
 | **[Lille Street Park](https://github.com/S3kk0um1/LilleStreetPark)** | Flutter · Google Maps API | **Mobile App:** Real-time street parking finder for Lille connecting to open APIs. |
-| **[Student Management Portal](https://github.com/S3kk0um1/neoSophia)** | Java · JavaFX · MySQL | **Desktop App:** Academic management system for tracking students, grades, and modules. |
-
+| **[ParisExplorer](https://github.com/S3kk0um1/ParisExplorer)** | React Native · Expo · TypeScript · AsyncStorage | **Mobile App:** Paris event explorer using open data, with search, event details and locally saved favourites. |
 
 
 
