@@ -37,9 +37,9 @@ I’m looking for a junior Java backend developer position in France, where I ca
 | Project | Stack | Project Description |
 | :--- | :--- | :--- |
 | **[Patient Management](https://github.com/S3kk0um1/patient-management)** | Java · Spring Boot · JPA · gRPC · Docker | **Backend:** Patient management demo with a REST API, input validation and gRPC communication between two services. |
-| **[Identity-Based Secure Mail](https://github.com/XavierColy/ProjetCrypto)** | Java · JavaFX · Cryptography | **Security:** Encrypted mail client using the Boneh–Franklin Id-based algorithm. |
+| **[Identity-Based Secure Mail](https://github.com/XavierColy/ProjetCrypto)** | Java · JavaFX · Cryptography | **Team Project:** Mail client with identity-based encryption for attachments. |
 | **[Blockchain Demo](https://github.com/S3kk0um1/blockchainDemo)** | Java · SHA-256 | **Algorithms:** Educational Java blockchain with Proof-of-Work mining, UTXO transactions and chain validation. |
-| **[Lille Street Park](https://github.com/S3kk0um1/LilleStreetPark)** | Flutter · Google Maps API | **Mobile App:** Real-time street parking finder for Lille connecting to open APIs. |
+| **[LilleStreetPark](https://github.com/S3kk0um1/LilleStreetPark)** | Flutter · Google Maps API | **Mobile App:** Parking finder using Lille metropolitan open data, with recommendations based on distance and availability. |
 | **[ParisExplorer](https://github.com/S3kk0um1/ParisExplorer)** | React Native · Expo · TypeScript · AsyncStorage | **Mobile App:** Paris event explorer using open data, with search, event details and locally saved favourites. |
 
 
